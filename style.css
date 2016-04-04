@@ -1,0 +1,19 @@
+body {
+  color:#444;
+  margin-left:30px;
+  width:700px;
+  font-family: 'Noto Sans', sans-serif;
+  background:#e4e2e4 url('img/deepika.png') no-repeat bottom right fixed;
+  background-size:cover;
+}
+
+h1 {
+  font-weight:normal;
+  font-size:50px;
+}
+
+div#bio { line-height:21px; }
+
+a { color:#444; font-weight:bold; }
+
+img#photo { width:100%;}
